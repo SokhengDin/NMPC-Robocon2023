@@ -7,4 +7,4 @@ I hope this will help other research student who is interesting in ABU Robocon.
 <img src="Figure_1.png">
 
 ## Speed diagram
-<img src="FIgure_2.png">
+<img src="Figure_2.png">
